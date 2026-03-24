@@ -96,6 +96,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3643-flip-square-submatrix-vertically](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3668-restore-finishing-order/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3668-restore-finishing-order/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +247,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3005-count-elements-with-maximum-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3046-split-the-array/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
