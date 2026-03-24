@@ -215,6 +215,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3781-maximum-score-after-binary-swaps](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3788-maximum-score-of-a-split](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3788-maximum-score-of-a-split/) | Medium |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3796-find-maximum-value-in-a-constrained-sequence/) | Medium |
 | [3833-count-dominant-indices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3833-count-dominant-indices/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -590,6 +591,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3796-find-maximum-value-in-a-constrained-sequence/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
