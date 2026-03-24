@@ -71,6 +71,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0274-h-index](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -246,6 +247,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0240-search-a-2d-matrix-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -347,6 +349,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
