@@ -28,6 +28,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0485-max-consecutive-ones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
+| [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0496-next-greater-element-i/) | Easy |
+| [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
+| [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +106,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [0136-single-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
+| [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
