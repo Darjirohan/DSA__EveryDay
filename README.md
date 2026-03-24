@@ -90,6 +90,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3379-transformed-array/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +167,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
