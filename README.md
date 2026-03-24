@@ -133,6 +133,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -213,6 +214,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -437,6 +439,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3046-split-the-array/) | Easy |
