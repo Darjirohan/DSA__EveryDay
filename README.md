@@ -202,6 +202,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
@@ -425,6 +426,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
@@ -562,6 +564,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
