@@ -94,6 +94,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3637-trionic-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3637-trionic-array-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3668-restore-finishing-order](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3668-restore-finishing-order/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3046-split-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3046-split-the-array/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3668-restore-finishing-order](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3668-restore-finishing-order/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
