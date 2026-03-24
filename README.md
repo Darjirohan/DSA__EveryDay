@@ -101,6 +101,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
+| [3833-count-dominant-indices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3833-count-dominant-indices/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,6 +354,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3833-count-dominant-indices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3833-count-dominant-indices/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
