@@ -193,6 +193,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3379-transformed-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3379-transformed-array/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3637-trionic-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3637-trionic-array-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -370,6 +371,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2761-prime-pairs-with-target-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -722,8 +724,13 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 <!---LeetCode Topics End-->
