@@ -80,6 +80,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0456-132-pattern](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0456-132-pattern/) | Medium |
+| [0477-total-hamming-distance](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0477-total-hamming-distance/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
@@ -274,6 +275,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0204-count-primes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0477-total-hamming-distance](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0477-total-hamming-distance/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0812-largest-triangle-area/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -373,6 +375,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0137-single-number-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0477-total-hamming-distance](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0477-total-hamming-distance/) | Medium |
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
