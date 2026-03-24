@@ -150,6 +150,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1929-concatenation-of-array/) | Easy |
+| [1975-maximum-matrix-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -503,6 +504,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [1975-maximum-matrix-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Counting Sort
@@ -584,6 +586,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1975-maximum-matrix-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Number Theory
