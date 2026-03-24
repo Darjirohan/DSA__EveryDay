@@ -53,6 +53,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1200-minimum-absolute-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +231,5 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1046-last-stone-weight](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1046-last-stone-weight/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
