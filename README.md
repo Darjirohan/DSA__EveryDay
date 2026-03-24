@@ -225,6 +225,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3834-merge-adjacent-equal-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
+| [3840-house-robber-v](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3840-house-robber-v/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3861-minimum-capacity-box/) | Easy |
@@ -503,6 +504,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3840-house-robber-v](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3840-house-robber-v/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
