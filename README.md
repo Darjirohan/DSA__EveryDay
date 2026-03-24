@@ -155,6 +155,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1980-find-unique-binary-string](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
@@ -484,6 +485,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0739-daily-temperatures](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,6 +494,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0739-daily-temperatures](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
