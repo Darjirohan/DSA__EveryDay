@@ -224,6 +224,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3833-count-dominant-indices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3833-count-dominant-indices/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3839-number-of-prefix-connected-groups](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3861-minimum-capacity-box/) | Easy |
@@ -280,6 +281,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3804-number-of-centered-subarrays/) | Medium |
+| [3839-number-of-prefix-connected-groups](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3866-first-unique-even-element/) | Easy |
@@ -297,6 +299,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3781-maximum-score-after-binary-swaps](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3839-number-of-prefix-connected-groups](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -538,6 +541,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3839-number-of-prefix-connected-groups](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3866-first-unique-even-element/) | Easy |
 ## Sliding Window
