@@ -73,6 +73,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +231,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1920-build-array-from-permutation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
