@@ -86,6 +86,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0498-diagonal-traverse](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0498-diagonal-traverse/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0525-contiguous-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0682-baseball-game/) | Easy |
@@ -264,6 +265,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0456-132-pattern](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0456-132-pattern/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
