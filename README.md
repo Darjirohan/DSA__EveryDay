@@ -11,6 +11,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,8 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0035-search-insert-position/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
