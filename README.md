@@ -48,6 +48,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0128-longest-consecutive-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -312,6 +313,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0078-subsets](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
