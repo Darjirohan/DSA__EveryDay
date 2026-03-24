@@ -66,6 +66,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +245,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1572-matrix-diagonal-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
