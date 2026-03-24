@@ -188,6 +188,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3206-alternating-groups-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3206-alternating-groups-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3379-transformed-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3379-transformed-array/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -476,6 +477,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
