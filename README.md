@@ -112,6 +112,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1046-last-stone-weight/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -452,6 +453,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0682-baseball-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -459,6 +461,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0496-next-greater-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -501,6 +504,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
