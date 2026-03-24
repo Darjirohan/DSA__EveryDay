@@ -175,6 +175,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2942-find-words-containing-character/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
@@ -240,6 +241,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2215-find-the-difference-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3046-split-the-array/) | Easy |
@@ -481,6 +483,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3046-split-the-array/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -537,6 +540,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
