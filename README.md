@@ -233,6 +233,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3861-minimum-capacity-box](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3862-find-the-smallest-balanced-index](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3866-first-unique-even-element/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +341,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,6 +412,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -644,6 +647,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3838-weighted-word-mapping](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -725,6 +729,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
