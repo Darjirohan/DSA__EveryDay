@@ -36,6 +36,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0073-set-matrix-zeroes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0118-pascals-triangle/) | Easy |
@@ -298,6 +299,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
@@ -446,4 +448,5 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0040-combination-sum-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0047-permutations-ii/) | Medium |
+| [0078-subsets](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
