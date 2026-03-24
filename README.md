@@ -65,6 +65,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1672-richest-customer-wealth](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1232-check-if-it-is-a-straight-line](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
