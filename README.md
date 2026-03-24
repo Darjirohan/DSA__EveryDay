@@ -89,6 +89,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0540-single-element-in-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0611-valid-triangle-number/) | Medium |
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0704-binary-search/) | Easy |
@@ -243,6 +244,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0283-move-zeroes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0611-valid-triangle-number/) | Medium |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -268,6 +270,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0456-132-pattern](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0456-132-pattern/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0611-valid-triangle-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -323,6 +326,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0414-third-maximum-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0611-valid-triangle-number/) | Medium |
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -439,6 +443,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0134-gas-station](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0134-gas-station/) | Medium |
 | [0179-largest-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0179-largest-number/) | Medium |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0611-valid-triangle-number/) | Medium |
 | [0860-lemonade-change](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
