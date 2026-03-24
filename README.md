@@ -53,6 +53,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0152-maximum-product-subarray](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0162-find-peak-element/) | Medium |
+| [0164-maximum-gap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -261,6 +262,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0056-merge-intervals](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
+| [0164-maximum-gap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
@@ -478,4 +480,12 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
