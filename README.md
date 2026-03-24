@@ -83,6 +83,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2942-find-words-containing-character](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2942-find-words-containing-character/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,4 +303,8 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [1046-last-stone-weight](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 <!---LeetCode Topics End-->
