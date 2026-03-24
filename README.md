@@ -218,6 +218,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3796-find-maximum-value-in-a-constrained-sequence/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3804-number-of-centered-subarrays/) | Medium |
 | [3809-best-reachable-tower](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3809-best-reachable-tower/) | Medium |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3818-minimum-prefix-removal-to-make-array-strictly-increasing/) | Medium |
 | [3833-count-dominant-indices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3833-count-dominant-indices/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3842-toggle-light-bulbs/) | Easy |
