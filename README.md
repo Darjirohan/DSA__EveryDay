@@ -7,6 +7,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0027-remove-element/) | Easy |
@@ -155,6 +156,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
@@ -290,6 +292,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
 | [0860-lemonade-change](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
