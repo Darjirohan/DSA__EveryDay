@@ -29,6 +29,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0053-maximum-subarray](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -231,6 +232,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0018-4sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0217-contains-duplicate/) | Easy |
