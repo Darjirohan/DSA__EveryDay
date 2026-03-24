@@ -41,6 +41,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0283-move-zeroes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
