@@ -30,6 +30,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0054-spiral-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0056-merge-intervals/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -346,6 +347,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
@@ -388,6 +390,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0036-valid-sudoku](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
