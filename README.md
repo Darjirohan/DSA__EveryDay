@@ -57,6 +57,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0179-largest-number/) | Medium |
+| [0189-rotate-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
@@ -211,6 +212,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
@@ -243,6 +245,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0048-rotate-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0812-largest-triangle-area/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
