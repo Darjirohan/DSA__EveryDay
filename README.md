@@ -81,6 +81,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2942-find-words-containing-character/) | Easy |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
