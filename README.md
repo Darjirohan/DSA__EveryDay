@@ -234,6 +234,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3862-find-the-smallest-balanced-index](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3866-first-unique-even-element/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +292,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3843-first-element-with-unique-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3866-first-unique-even-element/) | Easy |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -554,6 +556,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3843-first-element-with-unique-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3866-first-unique-even-element/) | Easy |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -615,6 +618,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3796-find-maximum-value-in-a-constrained-sequence/) | Medium |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
