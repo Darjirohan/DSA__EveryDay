@@ -139,6 +139,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1572-matrix-diagonal-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
@@ -215,6 +216,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1394-find-lucky-integer-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -301,6 +303,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -456,6 +459,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0930-binary-subarrays-with-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3206-alternating-groups-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3206-alternating-groups-i/) | Easy |
@@ -541,6 +545,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0724-find-pivot-index](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
