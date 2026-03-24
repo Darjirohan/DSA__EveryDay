@@ -89,6 +89,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3206-alternating-groups-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3206-alternating-groups-i/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3379-transformed-array/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3046-split-the-array/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,10 +271,12 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3379-transformed-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3379-transformed-array/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,8 +318,17 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [1046-last-stone-weight](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 <!---LeetCode Topics End-->
