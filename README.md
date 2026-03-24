@@ -184,6 +184,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3046-split-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3046-split-the-array/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3206-alternating-groups-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3206-alternating-groups-i/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3379-transformed-array/) | Easy |
@@ -471,6 +472,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2438-range-product-queries-of-powers](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2438-range-product-queries-of-powers/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Counting
@@ -504,6 +506,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3206-alternating-groups-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3206-alternating-groups-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -605,6 +608,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2438-range-product-queries-of-powers](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2438-range-product-queries-of-powers/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -711,4 +715,8 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 <!---LeetCode Topics End-->
