@@ -71,6 +71,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1929-concatenation-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0014-longest-common-prefix/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +224,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
