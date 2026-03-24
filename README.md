@@ -78,6 +78,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0414-third-maximum-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
@@ -270,6 +271,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0189-rotate-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0812-largest-triangle-area/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
