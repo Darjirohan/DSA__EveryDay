@@ -45,6 +45,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0118-pascals-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0217-contains-duplicate/) | Easy |
@@ -143,6 +144,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0036-valid-sudoku](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -459,4 +461,8 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0047-permutations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0090-subsets-ii/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
