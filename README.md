@@ -64,6 +64,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1652-defuse-the-bomb](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
