@@ -204,6 +204,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3719-longest-balanced-subarray-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3731-find-missing-elements/) | Easy |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
@@ -378,6 +379,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +430,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3634-minimum-removals-to-balance-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3731-find-missing-elements/) | Easy |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
@@ -565,6 +568,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
