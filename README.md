@@ -31,6 +31,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0704-binary-search/) | Easy |
+| [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
+| [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +141,16 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0682-baseball-game/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
