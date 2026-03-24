@@ -23,6 +23,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0040-combination-sum-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0047-permutations-ii/) | Medium |
 | [0066-plus-one](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -220,6 +221,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0015-3sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0217-contains-duplicate/) | Easy |
@@ -410,4 +412,5 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0039-combination-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
