@@ -211,6 +211,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3769-sort-integers-by-binary-reflection](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3833-count-dominant-indices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3833-count-dominant-indices/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -441,6 +442,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -580,6 +582,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -701,6 +704,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
