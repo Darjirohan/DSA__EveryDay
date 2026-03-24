@@ -47,6 +47,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1232-check-if-it-is-a-straight-line](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
