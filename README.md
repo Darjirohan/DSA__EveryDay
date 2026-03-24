@@ -19,6 +19,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0039-combination-sum/) | Medium |
 | [0066-plus-one](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -398,4 +399,8 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
