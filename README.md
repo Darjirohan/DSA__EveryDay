@@ -159,6 +159,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -282,6 +283,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Binary Search
@@ -534,6 +536,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3379-transformed-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3379-transformed-array/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
