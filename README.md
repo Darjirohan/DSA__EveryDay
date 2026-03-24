@@ -40,6 +40,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -304,6 +305,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
@@ -453,4 +455,5 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0046-permutations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
