@@ -16,6 +16,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,8 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
