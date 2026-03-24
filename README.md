@@ -92,6 +92,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3637-trionic-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3637-trionic-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
