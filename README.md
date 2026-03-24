@@ -21,6 +21,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0036-valid-sudoku](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0040-combination-sum-ii/) | Medium |
+| [0045-jump-game-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0045-jump-game-ii/) | Medium |
 | [0066-plus-one](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -264,6 +265,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0045-jump-game-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Bit Manipulation
@@ -312,6 +314,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0045-jump-game-ii/) | Medium |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
 | [0860-lemonade-change](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
