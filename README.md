@@ -39,6 +39,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0860-lemonade-change](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0860-lemonade-change/) | Easy |
 | [0896-monotonic-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0896-monotonic-array/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 | [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
