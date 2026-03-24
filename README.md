@@ -132,6 +132,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1480-running-sum-of-1d-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -409,6 +410,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -449,6 +451,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0219-contains-duplicate-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
