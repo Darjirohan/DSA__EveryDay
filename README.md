@@ -105,6 +105,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0860-lemonade-change](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0896-monotonic-array/) | Easy |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -393,6 +394,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0152-maximum-product-subarray](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,6 +407,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0477-total-hamming-distance](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0477-total-hamming-distance/) | Medium |
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
