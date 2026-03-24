@@ -14,6 +14,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0018-4sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
@@ -165,6 +166,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0018-4sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
