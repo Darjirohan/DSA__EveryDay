@@ -231,6 +231,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3847-find-the-score-difference-in-a-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3861-minimum-capacity-box/) | Easy |
+| [3862-find-the-smallest-balanced-index](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3866-first-unique-even-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -679,6 +680,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3719-longest-balanced-subarray-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3788-maximum-score-of-a-split](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3788-maximum-score-of-a-split/) | Medium |
+| [3862-find-the-smallest-balanced-index](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
