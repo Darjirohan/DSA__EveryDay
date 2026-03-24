@@ -46,6 +46,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0134-gas-station](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0217-contains-duplicate/) | Easy |
@@ -356,6 +357,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0045-jump-game-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0134-gas-station](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0134-gas-station/) | Medium |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
 | [0860-lemonade-change](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
