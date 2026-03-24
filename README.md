@@ -72,6 +72,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0283-move-zeroes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -170,6 +171,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0219-contains-duplicate-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0496-next-greater-element-i/) | Easy |
@@ -295,6 +297,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0229-majority-element-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0274-h-index/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
@@ -325,6 +328,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0169-majority-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +374,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -493,6 +498,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1046-last-stone-weight](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -528,6 +534,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0164-maximum-gap/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -536,4 +543,5 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
