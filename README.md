@@ -228,6 +228,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3840-house-robber-v](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3840-house-robber-v/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3866-first-unique-even-element/) | Easy |
@@ -641,6 +642,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3834-merge-adjacent-equal-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
