@@ -58,6 +58,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1480-running-sum-of-1d-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
