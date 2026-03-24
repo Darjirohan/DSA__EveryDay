@@ -49,6 +49,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0134-gas-station](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0137-single-number-ii/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -230,6 +231,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0066-plus-one/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0812-largest-triangle-area/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -346,6 +348,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
