@@ -213,6 +213,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3833-count-dominant-indices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3833-count-dominant-indices/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -269,6 +270,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3731-find-missing-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3866-first-unique-even-element/) | Easy |
@@ -284,6 +286,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2942-find-words-containing-character/) | Easy |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -716,6 +719,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2761-prime-pairs-with-target-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3833-count-dominant-indices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3833-count-dominant-indices/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
