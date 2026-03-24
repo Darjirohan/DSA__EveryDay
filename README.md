@@ -69,6 +69,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1929-concatenation-of-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1266-minimum-time-visiting-all-points](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +256,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
