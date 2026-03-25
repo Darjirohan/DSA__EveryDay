@@ -655,6 +655,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2326-spiral-matrix-iv/) | Medium |
@@ -824,4 +825,8 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3828-final-element-after-subarray-deletions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
