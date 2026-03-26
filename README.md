@@ -209,6 +209,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
@@ -285,6 +286,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3719-longest-balanced-subarray-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3804-number-of-centered-subarrays/) | Medium |
@@ -415,6 +417,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
