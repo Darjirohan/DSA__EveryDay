@@ -420,6 +420,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3782-last-remaining-integer-after-alternating-deletion-operations/) | Hard |
 | [3828-final-element-after-subarray-deletions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
@@ -842,4 +843,5 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3782-last-remaining-integer-after-alternating-deletion-operations/) | Hard |
 <!---LeetCode Topics End-->
