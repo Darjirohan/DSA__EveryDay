@@ -179,6 +179,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2942-find-words-containing-character/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
@@ -412,6 +413,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
@@ -650,6 +652,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2326-spiral-matrix-iv](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3379-transformed-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3379-transformed-array/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -732,6 +735,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
