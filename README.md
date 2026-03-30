@@ -218,6 +218,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3781-maximum-score-after-binary-swaps](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3788-maximum-score-of-a-split](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3788-maximum-score-of-a-split/) | Medium |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3796-find-maximum-value-in-a-constrained-sequence/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3804-number-of-centered-subarrays/) | Medium |
 | [3809-best-reachable-tower](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3809-best-reachable-tower/) | Medium |
@@ -291,6 +292,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3804-number-of-centered-subarrays/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -585,6 +587,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3206-alternating-groups-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3206-alternating-groups-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
