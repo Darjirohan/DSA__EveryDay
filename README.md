@@ -211,6 +211,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
@@ -352,6 +353,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -390,6 +392,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3350-adjacent-increasing-subarrays-detection-ii/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -551,6 +554,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
