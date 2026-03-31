@@ -172,6 +172,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2679-sum-in-a-matrix/) | Medium |
@@ -477,6 +478,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
@@ -747,6 +749,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1975-maximum-matrix-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
