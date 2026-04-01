@@ -75,6 +75,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0347-top-k-frequent-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0413-arithmetic-slices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0413-arithmetic-slices/) | Medium |
 | [0414-third-maximum-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -532,6 +533,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0152-maximum-product-subarray](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0413-arithmetic-slices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0413-arithmetic-slices/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -587,6 +589,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0413-arithmetic-slices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0413-arithmetic-slices/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
