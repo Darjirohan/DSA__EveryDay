@@ -187,6 +187,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3046-split-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3046-split-the-array/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3206-alternating-groups-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3206-alternating-groups-i/) | Easy |
@@ -426,6 +427,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2761-prime-pairs-with-target-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
@@ -768,6 +770,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2221-find-triangular-sum-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
