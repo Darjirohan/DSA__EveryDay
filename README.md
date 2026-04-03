@@ -172,6 +172,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2438-range-product-queries-of-powers](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2438-range-product-queries-of-powers/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -281,6 +282,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2215-find-the-difference-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
@@ -423,6 +425,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2221-find-triangular-sum-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -768,6 +771,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3115-maximum-prime-difference/) | Medium |
