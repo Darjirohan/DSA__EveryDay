@@ -420,6 +420,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1390-four-divisors](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1390-four-divisors/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
