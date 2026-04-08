@@ -110,6 +110,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0896-monotonic-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0896-monotonic-array/) | Easy |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0912-sort-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0912-sort-an-array/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -473,6 +474,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0912-sort-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -513,6 +515,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0215-kth-largest-element-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0912-sort-an-array/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
@@ -662,6 +665,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [0274-h-index](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0274-h-index/) | Medium |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
+| [0912-sort-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0912-sort-an-array/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -790,6 +794,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0912-sort-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
@@ -835,10 +840,12 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0164-maximum-gap/) | Medium |
+| [0912-sort-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -867,6 +874,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
