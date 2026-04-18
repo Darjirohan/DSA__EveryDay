@@ -450,6 +450,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3782-last-remaining-integer-after-alternating-deletion-operations/) | Hard |
+| [3783-mirror-distance-of-an-integer](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
