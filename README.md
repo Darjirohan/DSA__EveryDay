@@ -337,6 +337,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2942-find-words-containing-character/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -607,6 +608,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3046-split-the-array/) | Easy |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -677,6 +679,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
