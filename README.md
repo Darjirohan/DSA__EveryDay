@@ -132,6 +132,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1390-four-divisors](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1390-four-divisors/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -290,6 +291,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
@@ -514,6 +516,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1338-reduce-array-size-to-the-half](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -710,6 +713,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0274-h-index](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0274-h-index/) | Medium |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0912-sort-an-array/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
