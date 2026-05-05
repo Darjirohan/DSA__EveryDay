@@ -357,6 +357,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0088-merge-sorted-array/) | Easy |
@@ -727,6 +728,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
 | [0817-linked-list-components](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0817-linked-list-components/) | Medium |
