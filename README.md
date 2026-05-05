@@ -216,6 +216,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3643-flip-square-submatrix-vertically](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3668-restore-finishing-order/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -721,6 +722,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3379-transformed-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3379-transformed-array/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3819-rotate-non-negative-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3819-rotate-non-negative-elements/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3838-weighted-word-mapping/) | Easy |
