@@ -206,6 +206,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3206-alternating-groups-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3206-alternating-groups-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -837,6 +838,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
