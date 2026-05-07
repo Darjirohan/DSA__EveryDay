@@ -109,6 +109,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0860-lemonade-change/) | Easy |
+| [0861-score-after-flipping-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0896-monotonic-array/) | Easy |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
@@ -604,6 +605,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0477-total-hamming-distance](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0477-total-hamming-distance/) | Medium |
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
+| [0861-score-after-flipping-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2438-range-product-queries-of-powers](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2438-range-product-queries-of-powers/) | Medium |
@@ -694,6 +696,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0611-valid-triangle-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0611-valid-triangle-number/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0860-lemonade-change](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0860-lemonade-change/) | Easy |
+| [0861-score-after-flipping-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -814,6 +817,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0498-diagonal-traverse](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0498-diagonal-traverse/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
+| [0861-score-after-flipping-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
