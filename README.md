@@ -152,6 +152,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1539-kth-missing-positive-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1630-arithmetic-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -305,6 +306,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1630-arithmetic-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -531,6 +533,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1630-arithmetic-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
