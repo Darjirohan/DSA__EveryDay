@@ -354,6 +354,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -688,6 +689,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
@@ -749,6 +751,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0735-asteroid-collision](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0735-asteroid-collision/) | Medium |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
