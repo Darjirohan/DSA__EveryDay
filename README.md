@@ -353,6 +353,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0771-jewels-and-stones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0771-jewels-and-stones/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1529-minimum-suffix-flips](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -721,6 +722,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
+| [1529-minimum-suffix-flips](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
