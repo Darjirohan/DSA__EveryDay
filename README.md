@@ -347,6 +347,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0179-largest-number/) | Medium |
@@ -377,6 +378,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0016-3sum-closest/) | Medium |
@@ -592,6 +594,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0045-jump-game-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0055-jump-game/) | Medium |
