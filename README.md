@@ -618,6 +618,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
 | [3840-house-robber-v](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3840-house-robber-v/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -994,4 +995,8 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0021-merge-two-sorted-lists](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0390-elimination-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0390-elimination-game/) | Medium |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3782-last-remaining-integer-after-alternating-deletion-operations/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
 <!---LeetCode Topics End-->
