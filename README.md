@@ -365,6 +365,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2942-find-words-containing-character/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
@@ -409,6 +410,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2161-partition-array-according-to-given-pivot](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -734,6 +736,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1975-maximum-matrix-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
