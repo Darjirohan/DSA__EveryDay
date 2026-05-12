@@ -202,6 +202,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2942-find-words-containing-character/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
@@ -558,6 +559,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2679-sum-in-a-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -738,6 +740,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
