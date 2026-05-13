@@ -356,6 +356,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0049-group-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0179-largest-number/) | Medium |
 | [0214-shortest-palindrome](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0214-shortest-palindrome/) | Hard |
+| [0224-basic-calculator](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0224-basic-calculator/) | Hard |
 | [0771-jewels-and-stones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0771-jewels-and-stones/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1154-day-of-the-year](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1154-day-of-the-year/) | Easy |
@@ -464,6 +465,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0150-evaluate-reverse-polish-notation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0204-count-primes/) | Medium |
+| [0224-basic-calculator](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0224-basic-calculator/) | Hard |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
 | [0390-elimination-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0390-elimination-game/) | Medium |
 | [0396-rotate-function](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0396-rotate-function/) | Medium |
@@ -698,6 +700,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0224-basic-calculator](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0224-basic-calculator/) | Hard |
 | [0456-132-pattern](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0682-baseball-game/) | Easy |
@@ -1002,6 +1005,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0224-basic-calculator](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0224-basic-calculator/) | Hard |
 | [0390-elimination-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0390-elimination-game/) | Medium |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3782-last-remaining-integer-after-alternating-deletion-operations/) | Hard |
 ## Memoization
