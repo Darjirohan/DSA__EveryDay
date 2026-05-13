@@ -184,6 +184,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2438-range-product-queries-of-powers](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2438-range-product-queries-of-powers/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
@@ -638,6 +639,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2438-range-product-queries-of-powers](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2438-range-product-queries-of-powers/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
