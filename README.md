@@ -355,6 +355,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0014-longest-common-prefix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0179-largest-number/) | Medium |
+| [0214-shortest-palindrome](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0214-shortest-palindrome/) | Hard |
 | [0771-jewels-and-stones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0771-jewels-and-stones/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1154-day-of-the-year](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1154-day-of-the-year/) | Easy |
@@ -814,6 +815,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0214-shortest-palindrome/) | Hard |
 | [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -1006,4 +1008,12 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0214-shortest-palindrome/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
