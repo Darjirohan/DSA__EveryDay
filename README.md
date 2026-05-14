@@ -173,6 +173,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -696,6 +697,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1652-defuse-the-bomb](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3206-alternating-groups-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3206-alternating-groups-i/) | Easy |
