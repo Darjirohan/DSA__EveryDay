@@ -199,6 +199,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2942-find-words-containing-character/) | Easy |
@@ -321,6 +322,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2615-sum-of-distances](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
@@ -562,6 +564,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
