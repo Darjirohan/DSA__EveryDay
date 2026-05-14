@@ -104,6 +104,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0812-largest-triangle-area/) | Easy |
 | [0817-linked-list-components](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0817-linked-list-components/) | Medium |
@@ -627,6 +628,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0396-rotate-function](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0396-rotate-function/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0413-arithmetic-slices/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
