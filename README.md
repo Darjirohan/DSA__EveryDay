@@ -92,6 +92,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0560-subarray-sum-equals-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0611-valid-triangle-number/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0682-baseball-game/) | Easy |
@@ -688,6 +689,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0209-minimum-size-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0413-arithmetic-slices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0413-arithmetic-slices/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
