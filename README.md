@@ -89,6 +89,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0523-continuous-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0611-valid-triangle-number/) | Medium |
@@ -632,6 +633,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0300-longest-increasing-subsequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0396-rotate-function/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0413-arithmetic-slices/) | Medium |
+| [0542-01-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
@@ -882,6 +884,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0240-search-a-2d-matrix-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0498-diagonal-traverse/) | Medium |
+| [0542-01-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0542-01-matrix/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0861-score-after-flipping-matrix/) | Medium |
@@ -1043,4 +1046,8 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0542-01-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0542-01-matrix/) | Medium |
 <!---LeetCode Topics End-->
