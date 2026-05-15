@@ -982,6 +982,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0547-number-of-provinces](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0547-number-of-provinces/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1056,4 +1057,13 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0542-01-matrix/) | Medium |
+| [0547-number-of-provinces](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0547-number-of-provinces/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
