@@ -59,6 +59,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0179-largest-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -886,6 +887,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0064-minimum-path-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0498-diagonal-traverse/) | Medium |
@@ -982,6 +984,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0547-number-of-provinces/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -1056,11 +1059,13 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0547-number-of-provinces/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
