@@ -52,6 +52,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0150-evaluate-reverse-polish-notation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -440,6 +441,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0074-search-a-2d-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0209-minimum-size-subarray-sum/) | Medium |
