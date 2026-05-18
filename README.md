@@ -122,6 +122,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0912-sort-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0912-sort-an-array/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -735,6 +736,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0739-daily-temperatures](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -802,6 +804,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0682-baseball-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0735-asteroid-collision/) | Medium |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
