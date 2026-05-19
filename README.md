@@ -78,6 +78,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0396-rotate-function](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0396-rotate-function/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0413-arithmetic-slices/) | Medium |
 | [0414-third-maximum-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -457,6 +458,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0300-longest-increasing-subsequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0456-132-pattern](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0456-132-pattern/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0611-valid-triangle-number/) | Medium |
@@ -647,6 +649,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0198-house-robber](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0396-rotate-function/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0413-arithmetic-slices/) | Medium |
 | [0542-01-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -768,6 +771,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0134-gas-station/) | Medium |
 | [0179-largest-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0179-largest-number/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0611-valid-triangle-number/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
@@ -863,6 +867,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0560-subarray-sum-equals-k/) | Medium |
