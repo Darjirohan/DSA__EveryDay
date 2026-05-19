@@ -201,6 +201,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2540-minimum-common-value](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2540-minimum-common-value/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -332,6 +333,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2540-minimum-common-value](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -430,6 +432,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2161-partition-array-according-to-given-pivot](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2540-minimum-common-value](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2540-minimum-common-value/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
@@ -471,6 +474,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2540-minimum-common-value](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2540-minimum-common-value/) | Easy |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3350-adjacent-increasing-subarrays-detection-ii/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
