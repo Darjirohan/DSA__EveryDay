@@ -372,6 +372,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0005-longest-palindromic-substring](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0049-group-anagrams/) | Medium |
+| [0072-edit-distance](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0072-edit-distance/) | Medium |
 | [0179-largest-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0179-largest-number/) | Medium |
 | [0214-shortest-palindrome](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0214-shortest-palindrome/) | Hard |
 | [0224-basic-calculator](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0224-basic-calculator/) | Hard |
@@ -642,6 +643,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0053-maximum-subarray](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0064-minimum-path-sum/) | Medium |
+| [0072-edit-distance](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0072-edit-distance/) | Medium |
 | [0118-pascals-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
