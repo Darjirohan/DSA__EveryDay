@@ -494,6 +494,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0189-rotate-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0224-basic-calculator/) | Hard |
+| [0231-power-of-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
 | [0390-elimination-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0390-elimination-game/) | Medium |
 | [0396-rotate-function](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0396-rotate-function/) | Medium |
@@ -673,6 +674,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0090-subsets-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0137-single-number-ii/) | Medium |
+| [0231-power-of-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0477-total-hamming-distance/) | Medium |
@@ -1064,6 +1066,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0224-basic-calculator](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0224-basic-calculator/) | Hard |
+| [0231-power-of-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0231-power-of-two/) | Easy |
 | [0390-elimination-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0390-elimination-game/) | Medium |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3782-last-remaining-integer-after-alternating-deletion-operations/) | Hard |
 ## Memoization
