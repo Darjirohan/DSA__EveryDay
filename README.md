@@ -117,6 +117,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0860-lemonade-change](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0860-lemonade-change/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0896-monotonic-array/) | Easy |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -500,6 +501,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0477-total-hamming-distance](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0477-total-hamming-distance/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0812-largest-triangle-area/) | Easy |
+| [0877-stone-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0877-stone-game/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1154-day-of-the-year](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1154-day-of-the-year/) | Easy |
@@ -656,6 +658,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0542-01-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
+| [0877-stone-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0877-stone-game/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
@@ -1054,6 +1057,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0877-stone-game/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
