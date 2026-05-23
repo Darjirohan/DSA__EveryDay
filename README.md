@@ -317,6 +317,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -507,6 +508,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0877-stone-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0877-stone-game/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1154-day-of-the-year](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1154-day-of-the-year/) | Easy |
 | [1185-day-of-the-week](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1185-day-of-the-week/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
