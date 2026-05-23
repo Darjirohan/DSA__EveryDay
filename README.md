@@ -496,6 +496,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0204-count-primes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0268-missing-number/) | Easy |
 | [0390-elimination-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0390-elimination-game/) | Medium |
 | [0396-rotate-function](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0396-rotate-function/) | Medium |
