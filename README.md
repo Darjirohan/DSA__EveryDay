@@ -384,6 +384,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1529-minimum-suffix-flips](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1871-jump-game-vii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1871-jump-game-vii/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -672,6 +673,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
+| [1871-jump-game-vii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1871-jump-game-vii/) | Medium |
 | [3840-house-robber-v](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3840-house-robber-v/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -739,6 +741,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1871-jump-game-vii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1871-jump-game-vii/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
@@ -893,6 +896,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1871-jump-game-vii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1871-jump-game-vii/) | Medium |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 | [2438-range-product-queries-of-powers](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2438-range-product-queries-of-powers/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2485-find-the-pivot-integer/) | Easy |
