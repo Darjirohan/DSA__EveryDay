@@ -347,6 +347,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2947-count-beautiful-substrings-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3046-split-the-array/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -395,6 +396,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2938-separate-black-and-white-balls](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2942-find-words-containing-character/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
