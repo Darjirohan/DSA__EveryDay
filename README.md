@@ -645,6 +645,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -653,6 +654,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1117,6 +1119,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0547-number-of-provinces/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
