@@ -186,6 +186,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2126-destroying-asteroids](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -603,6 +604,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2126-destroying-asteroids](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
@@ -811,6 +813,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1529-minimum-suffix-flips](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [2126-destroying-asteroids](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2938-separate-black-and-white-balls/) | Medium |
