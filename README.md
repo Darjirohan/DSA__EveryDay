@@ -540,6 +540,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [2769-find-the-maximum-achievable-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2947-count-beautiful-substrings-i/) | Medium |
