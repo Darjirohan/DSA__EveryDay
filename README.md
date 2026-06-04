@@ -554,6 +554,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3782-last-remaining-integer-after-alternating-deletion-operations/) | Hard |
@@ -688,6 +689,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
 | [1871-jump-game-vii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1871-jump-game-vii/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3840-house-robber-v](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3840-house-robber-v/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -1012,6 +1014,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2947-count-beautiful-substrings-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3804-number-of-centered-subarrays/) | Medium |
 | [3833-count-dominant-indices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3833-count-dominant-indices/) | Easy |
