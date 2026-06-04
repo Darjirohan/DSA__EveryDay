@@ -420,6 +420,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0015-3sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0031-next-permutation/) | Medium |
@@ -875,6 +876,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
