@@ -251,6 +251,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [3643-flip-square-submatrix-vertically](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3668-restore-finishing-order/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3719-longest-balanced-subarray-i/) | Medium |
@@ -824,6 +825,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
