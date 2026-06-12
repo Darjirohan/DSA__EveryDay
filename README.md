@@ -378,6 +378,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0014-longest-common-prefix/) | Easy |
+| [0038-count-and-say](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0072-edit-distance/) | Medium |
 | [0179-largest-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0179-largest-number/) | Medium |
