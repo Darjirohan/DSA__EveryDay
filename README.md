@@ -500,6 +500,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0066-plus-one/) | Easy |
