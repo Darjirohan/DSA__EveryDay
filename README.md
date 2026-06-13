@@ -516,6 +516,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0477-total-hamming-distance/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0670-maximum-swap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0670-maximum-swap/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0877-stone-game/) | Medium |
@@ -809,6 +810,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0410-split-array-largest-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0561-array-partition](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0561-array-partition/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0611-valid-triangle-number/) | Medium |
+| [0670-maximum-swap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0670-maximum-swap/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0860-lemonade-change](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0860-lemonade-change/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0861-score-after-flipping-matrix/) | Medium |
