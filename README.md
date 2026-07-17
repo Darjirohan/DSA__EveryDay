@@ -30,6 +30,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0054-spiral-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0066-plus-one/) | Easy |
