@@ -141,6 +141,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1314-matrix-block-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1314-matrix-block-sum/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -323,6 +324,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1015-smallest-integer-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -599,6 +601,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0977-squares-of-a-sorted-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
