@@ -390,6 +390,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0316-remove-duplicate-letters](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0771-jewels-and-stones/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1154-day-of-the-year](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1154-day-of-the-year/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1529-minimum-suffix-flips](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1529-minimum-suffix-flips/) | Medium |
@@ -789,6 +790,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -804,6 +806,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0739-daily-temperatures](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -824,6 +827,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0861-score-after-flipping-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
