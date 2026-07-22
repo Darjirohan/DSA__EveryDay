@@ -103,6 +103,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0682-baseball-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0706-design-hashmap/) | Easy |
 | [0724-find-pivot-index](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0739-daily-temperatures/) | Medium |
@@ -318,6 +319,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0560-subarray-sum-equals-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0645-set-mismatch/) | Easy |
 | [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0706-design-hashmap/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0771-jewels-and-stones/) | Easy |
 | [0817-linked-list-components](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0817-linked-list-components/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -902,6 +904,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0061-rotate-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0706-design-hashmap/) | Easy |
 | [0817-linked-list-components](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0817-linked-list-components/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2326-spiral-matrix-iv/) | Medium |
@@ -912,11 +915,13 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0214-shortest-palindrome/) | Hard |
 | [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0706-design-hashmap/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
