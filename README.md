@@ -201,6 +201,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2438-range-product-queries-of-powers](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2438-range-product-queries-of-powers/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -936,6 +937,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1871-jump-game-vii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1871-jump-game-vii/) | Medium |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2438-range-product-queries-of-powers](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2438-range-product-queries-of-powers/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2615-sum-of-distances](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2615-sum-of-distances/) | Medium |
@@ -982,6 +984,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2326-spiral-matrix-iv/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Darjirohan/DSA__EveryDay/tree/main/2614-prime-in-diagonal/) | Easy |
