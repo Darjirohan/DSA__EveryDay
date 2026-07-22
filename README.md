@@ -783,6 +783,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0224-basic-calculator/) | Hard |
+| [0225-implement-stack-using-queues](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0456-132-pattern](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0496-next-greater-element-i/) | Easy |
@@ -914,6 +915,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0705-design-hashset](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
@@ -1096,6 +1098,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Darjirohan/DSA__EveryDay/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Brainteaser
