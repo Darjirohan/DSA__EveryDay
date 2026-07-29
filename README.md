@@ -74,6 +74,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0274-h-index](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0289-game-of-life](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -867,6 +868,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0289-game-of-life](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0498-diagonal-traverse/) | Medium |
 | [0682-baseball-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0735-asteroid-collision/) | Medium |
@@ -975,6 +977,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0074-search-a-2d-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0289-game-of-life](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0289-game-of-life/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0498-diagonal-traverse/) | Medium |
 | [0542-01-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0542-01-matrix/) | Medium |
