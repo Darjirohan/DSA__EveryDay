@@ -133,6 +133,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1046-last-stone-weight/) | Easy |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -326,6 +327,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0930-binary-subarrays-with-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -979,6 +981,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0832-flipping-an-image](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0832-flipping-an-image/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1314-matrix-block-sum/) | Medium |
