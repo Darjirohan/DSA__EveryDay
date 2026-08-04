@@ -158,6 +158,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -496,6 +497,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Darjirohan/DSA__EveryDay/tree/main/1539-kth-missing-positive-number/) | Easy |
