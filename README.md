@@ -303,6 +303,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -386,6 +387,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0014-longest-common-prefix/) | Easy |
 | [0038-count-and-say](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0038-count-and-say/) | Medium |
@@ -765,6 +767,7 @@ it is my favourite repo and from 24 march-26,i will commit all the question i so
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0413-arithmetic-slices](https://github.com/Darjirohan/DSA__EveryDay/tree/main/0413-arithmetic-slices/) | Medium |
